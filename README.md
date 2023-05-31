@@ -43,9 +43,9 @@
 
 ## Endpoints
 
-Lista todos os usuários cadastrados: `api/token/`.
+Autenticação: `api/token/`.
 
-Permite visualizar um usuário :`api/users/`.
+Permite criar um usuário :`api/users/`.
 
 Permite listar as corridas : `api/rides/`.
 
